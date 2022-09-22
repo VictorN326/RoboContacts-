@@ -30,7 +30,10 @@ class App  extends Component {
 		const filteredRobots = robots.filter(robot => {
 			return robot.name.toLowerCase().includes(searchfield.toLowerCase());
 		})
+<<<<<<< HEAD
 		//use ! to make robots.length true as it evaluates as false initally
+=======
+>>>>>>> 4f20cd3d37073b6abc50ace668e0e47458d212a1
 		return (
 	 	<div className = 'tc'>
 			<h1 className = 'f1'>RoboFriends </h1>
@@ -42,6 +45,12 @@ class App  extends Component {
 			</Scroll>
 	 	</div>
 	  );
+<<<<<<< HEAD
 	}
   }
 export default App;
+=======
+     }	
+}
+export default App;
+>>>>>>> 4f20cd3d37073b6abc50ace668e0e47458d212a1
