@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboContacts-/static/css/main.6dc4edfe.css",
+    "main.js": "/RoboContacts-/static/js/main.13c80640.js",
+    "static/js/787.32032a02.chunk.js": "/RoboContacts-/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.TTF": "/RoboContacts-/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "index.html": "/RoboContacts-/index.html",
+    "main.6dc4edfe.css.map": "/RoboContacts-/static/css/main.6dc4edfe.css.map",
+    "main.13c80640.js.map": "/RoboContacts-/static/js/main.13c80640.js.map",
+    "787.32032a02.chunk.js.map": "/RoboContacts-/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc4edfe.css",
+    "static/js/main.13c80640.js"
+  ]
+}
